@@ -19,9 +19,9 @@ package vm
 import (
 	"errors"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/JinkwanLee/go-wkc/common"
+	"github.com/JinkwanLee/go-wkc/common/math"
+	"github.com/JinkwanLee/go-wkc/params"
 )
 
 const (

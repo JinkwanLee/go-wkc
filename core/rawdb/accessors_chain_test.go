@@ -27,10 +27,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/JinkwanLee/go-wkc/common"
+	"github.com/JinkwanLee/go-wkc/core/types"
+	"github.com/JinkwanLee/go-wkc/params"
+	"github.com/JinkwanLee/go-wkc/rlp"
 	"golang.org/x/crypto/sha3"
 )
 
