@@ -1,4 +1,4 @@
-module github.com/Jinkwan/go-wkc
+module github.com/JinkwanLee/go-wkc
 
 go 1.16
 
